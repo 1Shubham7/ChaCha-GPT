@@ -1,0 +1,18 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src":"chachaGPT/wsgi.py",
+            "use":"@vercel/python",
+            "config": {"macLambdaSize":"15mb", "runtime":"python3.11"}
+        },
+        {
+            "src":"build_files.sh",
+            "use":"@vercel/static-build",
+            "config": {
+                "distDir":""
+            }
+        }
+        
+    ]
+}
