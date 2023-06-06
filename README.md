@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/your-username/cha-cha-gpt">
-        <img src="https://img.shields.io/github/stars/your-username/cha-cha-gpt?style=flat-square" alt="GitHub stars">
+    <a href="https://github.com/1Shubham7/ChaCha-GPT">
+        <img src="https://img.shields.io/github/stars/ 1Shubham7/ChaCha-GPT?style=flat-square" alt="GitHub stars">
     </a>
 </p>
 
 ---
 
-![ChaCha GPT Demo](https://your-demo-image-url)
+![ChaCha GPT Demo](https://images.app.goo.gl/eQ2DXw6v6iKCuKL48)
 
 ChaCha GPT is a playful Chat GPT clone that utilizes the OpenAI API to bring conversational AI to life. It offers an interactive chatbot experience, enabling users to engage in entertaining and engaging conversations. Please note that the project is not yet deployed due to limited free credits provided by OpenAI. However, you can still run it locally using Django, HTML, CSS, and JS.
 
